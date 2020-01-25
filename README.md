@@ -3,6 +3,8 @@ Team velocity tracking library
 
 Wish List:
 
+Functionality to calculate average team and individual velocities based on a set of users, how many days they worked, and amount of "points" they completed.
+
 Integration with:
 
 * Data input interface
